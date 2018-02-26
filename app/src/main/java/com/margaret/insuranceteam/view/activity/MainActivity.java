@@ -17,4 +17,5 @@ public class MainActivity extends AppCompatActivity {
 		mainToolbar.setTitle(R.string.team_profile);
 		setSupportActionBar(mainToolbar);
 	}
+
 }
